@@ -1,6 +1,10 @@
 # Documentos disponíveis
 
-Este repositório contém boas práticas de codificação com qualidade e foco em testabilidade em diferentes stacks.
+Este repositório contém guia de estruturação de processos de QA + boas práticas de codificação com qualidade e foco em testabilidade em diferentes stacks.
 
-- [Guia Angular](./angular/guia_testabilidade_angular.md)
-- [Guia .NET](./dotnet/guia-testabilidade-dotnet.md)
+#Código
+- [Guia Angular](./docs/code/guia_testabilidade_angular.md)
+- [Guia .NET](./docs/code/guia-testabilidade-dotnet.md)
+
+#Processos
+- [Guia Governança escalável](./docs/process/modelo-governanca_escalavel_qa.md)
